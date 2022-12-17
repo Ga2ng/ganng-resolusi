@@ -1,4 +1,6 @@
 PENGEN JAGO NGODING WEB
+-tamatin c++ dulu
 -belajar Html
 -belajar css
 -belajar javascript
+

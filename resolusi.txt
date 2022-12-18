@@ -2,9 +2,13 @@ ROAD MAP SAYA.
 -tamatin c++ dulu
   * selesain tutor
   * terrutama oop dan class
+ coba-fitur-2
   * latihan probelm solve c++
   * bikin project c++
   * selesain soal uas
+-Belajar laravel
+ *pengenalan
+ *liat tutor yutub
 -belajar Html
 -belajar css
 -belajar javascript
